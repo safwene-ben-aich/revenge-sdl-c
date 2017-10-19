@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDL_Template" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SDL_Template" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SDL_Template" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="Stage_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Stage_5.h" />
+		<Unit filename="Win_stage_1.h" />
+		<Unit filename="sources/Chargement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Chargement.h" />
+		<Unit filename="sources/Choix_map.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Choix_map.h" />
+		<Unit filename="sources/Defs.h" />
+		<Unit filename="sources/Lire_options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Lire_options.h" />
+		<Unit filename="sources/Menu_principale.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Menu_principale.h" />
+		<Unit filename="sources/Musique.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Musique.h" />
+		<Unit filename="sources/Pause.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Pause.h" />
+		<Unit filename="sources/Stage_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Stage_1.h" />
+		<Unit filename="sources/Stage_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Stage_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Stage_3.h" />
+		<Unit filename="sources/Stage_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/Stage_4.h" />
+		<Unit filename="sources/Win_stage_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/options.h" />
+		<Unit filename="sources/stage_2.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

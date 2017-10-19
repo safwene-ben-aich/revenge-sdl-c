@@ -1,0 +1,943 @@
+# depslib dependency file v1.0
+1401846310 source:c:\users\aymen\desktop\copie de final - copie\sources\chargement.c
+	"Chargement.h"
+
+1401810814 c:\users\aymen\desktop\copie de final - copie\sources\chargement.h
+	"Defs.h"
+
+1397479698 c:\users\aymen\desktop\copie de final - copie\sources\defs.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114586 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_platform.h
+
+1326114594 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\users\aymen\desktop\copie de final - copie\include\sdl\begin_code.h
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\close_code.h
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_keysym.h
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792940 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1325796794 c:\users\aymen\desktop\copie de final - copie\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401846310 source:c:\users\aymen\desktop\copie de final - copie\sources\choix_map.c
+	"Choix_map.h"
+	"Stage_1.h"
+	"Stage_2.h"
+	"Stage_3.h"
+	"Stage_4.h"
+	"Chargement.h"
+
+1401808353 c:\users\aymen\desktop\copie de final - copie\sources\choix_map.h
+	"Defs.h"
+
+1401808353 c:\users\aymen\desktop\copie de final - copie\sources\stage_1.h
+	"Defs.h"
+
+1401808353 c:\users\aymen\desktop\copie de final - copie\sources\stage_2.h
+	"Defs.h"
+
+1401808353 c:\users\aymen\desktop\copie de final - copie\sources\stage_3.h
+	"Defs.h"
+
+1401808353 c:\users\aymen\desktop\copie de final - copie\sources\stage_4.h
+	"Defs.h"
+
+1401834514 source:c:\users\aymen\desktop\copie de final - copie\sources\lire_options.c
+	"Lire_options.h"
+
+1397840312 c:\users\aymen\desktop\copie de final - copie\sources\lire_options.h
+	"Defs.h"
+	"Menu_principale.h"
+	"Musique.h"
+
+1401808353 c:\users\aymen\desktop\copie de final - copie\sources\menu_principale.h
+	"Defs.h"
+	"Choix_map.h"
+	"Stage_1.h"
+	"stage_2.h"
+	"options.h"
+	"Win_stage_1.h"
+
+1401809642 c:\users\aymen\desktop\copie de final - copie\sources\options.h
+	"Defs.h"
+
+1401058378 c:\users\aymen\desktop\copie de final - copie\sources\win_stage_1.h
+	"Defs.h"
+
+1397840372 c:\users\aymen\desktop\copie de final - copie\sources\musique.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1399887108 source:c:\users\aymen\desktop\copie de final - copie\sources\main.c
+	"Defs.h"
+	"Choix_map.h"
+	"Stage_1.h"
+
+1401831659 source:c:\users\aymen\desktop\copie de final - copie\sources\menu_principale.c
+	"Menu_principale.h"
+
+1401843979 source:c:\users\aymen\desktop\copie de final - copie\sources\musique.c
+	"Musique.h"
+
+1401809642 source:c:\users\aymen\desktop\copie de final - copie\sources\options.c
+	"options.h"
+
+1401793500 source:c:\users\aymen\desktop\copie de final - copie\sources\pause.c
+	"Pause.h"
+	"Stage_1.h"
+
+1397421888 c:\users\aymen\desktop\copie de final - copie\sources\pause.h
+	"Defs.h"
+
+1401849955 source:c:\users\aymen\desktop\copie de final - copie\sources\stage_1.c
+	"Stage_1.h"
+
+1401849803 source:c:\users\aymen\desktop\copie de final - copie\sources\stage_2.c
+	"stage_2.h"
+
+1401852469 source:c:\users\aymen\desktop\copie de final - copie\sources\stage_3.c
+	"Stage_3.h"
+
+1401849803 source:c:\users\aymen\desktop\copie de final - copie\sources\stage_4.c
+	"Stage_4.h"
+
+1401817142 source:c:\users\aymen\desktop\copie de final - copie\sources\win_stage_1.c
+	"Win_stage_1.h"
+	"Stage_1.h"
+
+1401849803 source:c:\users\aymen\desktop\copie de final - copie\stage_5.c
+	"stage_5.h"
+
+1401808353 c:\users\aymen\desktop\copie de final - copie\stage_5.h
+	"Defs.h"
+
+1397479698 c:\users\aymen\desktop\copie de final - copie\defs.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+
+1401849912 source:f:\nouveau dossier\copie de final - copie\sources\chargement.c
+	"Chargement.h"
+
+1401814416 f:\nouveau dossier\copie de final - copie\sources\chargement.h
+	"Defs.h"
+
+1397483298 f:\nouveau dossier\copie de final - copie\sources\defs.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114586 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_platform.h
+
+1326114594 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 f:\nouveau dossier\copie de final - copie\include\sdl\begin_code.h
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\close_code.h
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_keysym.h
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792940 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1325796794 f:\nouveau dossier\copie de final - copie\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401849912 source:f:\nouveau dossier\copie de final - copie\sources\choix_map.c
+	"Choix_map.h"
+	"Stage_1.h"
+	"Stage_2.h"
+	"Stage_3.h"
+	"Stage_4.h"
+	"Chargement.h"
+
+1401811954 f:\nouveau dossier\copie de final - copie\sources\choix_map.h
+	"Defs.h"
+
+1401811954 f:\nouveau dossier\copie de final - copie\sources\stage_1.h
+	"Defs.h"
+
+1401811954 f:\nouveau dossier\copie de final - copie\sources\stage_2.h
+	"Defs.h"
+
+1401811954 f:\nouveau dossier\copie de final - copie\sources\stage_3.h
+	"Defs.h"
+
+1401811954 f:\nouveau dossier\copie de final - copie\sources\stage_4.h
+	"Defs.h"
+
+1401838116 source:f:\nouveau dossier\copie de final - copie\sources\lire_options.c
+	"Lire_options.h"
+
+1397843912 f:\nouveau dossier\copie de final - copie\sources\lire_options.h
+	"Defs.h"
+	"Menu_principale.h"
+	"Musique.h"
+
+1401811954 f:\nouveau dossier\copie de final - copie\sources\menu_principale.h
+	"Defs.h"
+	"Choix_map.h"
+	"Stage_1.h"
+	"stage_2.h"
+	"options.h"
+	"Win_stage_1.h"
+
+1401813244 f:\nouveau dossier\copie de final - copie\sources\options.h
+	"Defs.h"
+
+1401061978 f:\nouveau dossier\copie de final - copie\sources\win_stage_1.h
+	"Defs.h"
+
+1397843972 f:\nouveau dossier\copie de final - copie\sources\musique.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1399890708 source:f:\nouveau dossier\copie de final - copie\sources\main.c
+	"Defs.h"
+	"Choix_map.h"
+	"Stage_1.h"
+
+1401835260 source:f:\nouveau dossier\copie de final - copie\sources\menu_principale.c
+	"Menu_principale.h"
+
+1401847580 source:f:\nouveau dossier\copie de final - copie\sources\musique.c
+	"Musique.h"
+
+1401813244 source:f:\nouveau dossier\copie de final - copie\sources\options.c
+	"options.h"
+
+1401797102 source:f:\nouveau dossier\copie de final - copie\sources\pause.c
+	"Pause.h"
+	"Stage_1.h"
+
+1397425488 f:\nouveau dossier\copie de final - copie\sources\pause.h
+	"Defs.h"
+
+1401871008 source:f:\nouveau dossier\copie de final - copie\sources\stage_1.c
+	"Stage_1.h"
+
+1401871008 source:f:\nouveau dossier\copie de final - copie\sources\stage_2.c
+	"stage_2.h"
+
+1401870980 source:f:\nouveau dossier\copie de final - copie\sources\stage_3.c
+	"Stage_3.h"
+
+1401871008 source:f:\nouveau dossier\copie de final - copie\sources\stage_4.c
+	"Stage_4.h"
+
+1401820744 source:f:\nouveau dossier\copie de final - copie\sources\win_stage_1.c
+	"Win_stage_1.h"
+	"Stage_1.h"
+
+1401849912 source:c:\users\safwene\desktop\finale-version\sources\chargement.c
+	"Chargement.h"
+
+1401814416 c:\users\safwene\desktop\finale-version\sources\chargement.h
+	"Defs.h"
+
+1397483298 c:\users\safwene\desktop\finale-version\sources\defs.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114586 c:\users\safwene\desktop\finale-version\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_platform.h
+
+1326114594 c:\users\safwene\desktop\finale-version\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\users\safwene\desktop\finale-version\include\sdl\begin_code.h
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\close_code.h
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_keysym.h
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792940 c:\users\safwene\desktop\finale-version\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742238 c:\users\safwene\desktop\finale-version\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1325796794 c:\users\safwene\desktop\finale-version\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1401849912 source:c:\users\safwene\desktop\finale-version\sources\choix_map.c
+	"Choix_map.h"
+	"Stage_1.h"
+	"Stage_2.h"
+	"Stage_3.h"
+	"Stage_4.h"
+	"Chargement.h"
+
+1401811954 c:\users\safwene\desktop\finale-version\sources\choix_map.h
+	"Defs.h"
+
+1401811954 c:\users\safwene\desktop\finale-version\sources\stage_1.h
+	"Defs.h"
+
+1401811954 c:\users\safwene\desktop\finale-version\sources\stage_2.h
+	"Defs.h"
+
+1401811954 c:\users\safwene\desktop\finale-version\sources\stage_3.h
+	"Defs.h"
+
+1401811954 c:\users\safwene\desktop\finale-version\sources\stage_4.h
+	"Defs.h"
+
+1401838116 source:c:\users\safwene\desktop\finale-version\sources\lire_options.c
+	"Lire_options.h"
+
+1397843912 c:\users\safwene\desktop\finale-version\sources\lire_options.h
+	"Defs.h"
+	"Menu_principale.h"
+	"Musique.h"
+
+1401811954 c:\users\safwene\desktop\finale-version\sources\menu_principale.h
+	"Defs.h"
+	"Choix_map.h"
+	"Stage_1.h"
+	"stage_2.h"
+	"options.h"
+	"Win_stage_1.h"
+
+1401813244 c:\users\safwene\desktop\finale-version\sources\options.h
+	"Defs.h"
+
+1401061978 c:\users\safwene\desktop\finale-version\sources\win_stage_1.h
+	"Defs.h"
+
+1397843972 c:\users\safwene\desktop\finale-version\sources\musique.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1399890708 source:c:\users\safwene\desktop\finale-version\sources\main.c
+	"Defs.h"
+	"Choix_map.h"
+	"Stage_1.h"
+
+1401835260 source:c:\users\safwene\desktop\finale-version\sources\menu_principale.c
+	"Menu_principale.h"
+
+1401847580 source:c:\users\safwene\desktop\finale-version\sources\musique.c
+	"Musique.h"
+
+1401813244 source:c:\users\safwene\desktop\finale-version\sources\options.c
+	"options.h"
+
+1401797102 source:c:\users\safwene\desktop\finale-version\sources\pause.c
+	"Pause.h"
+	"Stage_1.h"
+
+1397425488 c:\users\safwene\desktop\finale-version\sources\pause.h
+	"Defs.h"
+
+1401871008 source:c:\users\safwene\desktop\finale-version\sources\stage_1.c
+	"Stage_1.h"
+
+1401871008 source:c:\users\safwene\desktop\finale-version\sources\stage_2.c
+	"stage_2.h"
+
+1401870980 source:c:\users\safwene\desktop\finale-version\sources\stage_3.c
+	"Stage_3.h"
+
+1401871008 source:c:\users\safwene\desktop\finale-version\sources\stage_4.c
+	"Stage_4.h"
+
+1401820744 source:c:\users\safwene\desktop\finale-version\sources\win_stage_1.c
+	"Win_stage_1.h"
+	"Stage_1.h"
+
+1401871008 source:c:\users\safwene\desktop\finale-version\stage_5.c
+	"stage_5.h"
+
+1401811954 c:\users\safwene\desktop\finale-version\stage_5.h
+	"Defs.h"
+
+1397483298 c:\users\safwene\desktop\finale-version\defs.h
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+
